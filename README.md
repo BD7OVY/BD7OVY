@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/banner.svg" alt="BD7OVY · 紫气东来" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://api.iconify.design/mdi/sparkles.svg?color=%23a855f7&width=36" alt="" width="36" />&nbsp;
   <img src="https://api.iconify.design/mdi/auto-fix.svg?color=%23a855f7&width=36" alt="" width="36" />
 </p>
